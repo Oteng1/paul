@@ -1,3 +1,4 @@
 Sample 1
 edit 1
 paul edit 3
+alice merge 3
